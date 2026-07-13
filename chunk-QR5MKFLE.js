@@ -1,0 +1,1 @@
+import"./chunk-IM5V7DCU.js";var a=[{path:"",data:{title:"Dashboard"},children:[{path:"",redirectTo:"dashboard",pathMatch:"full"},{path:"dashboard",loadComponent:()=>import("./chunk-O65EMSEP.js").then(t=>t.DashboardComponent),data:{title:""}}]}];export{a as routes};
